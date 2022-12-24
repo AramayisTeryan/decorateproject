@@ -1,2 +1,2 @@
-# decorateproject
+# decorate
 Django
